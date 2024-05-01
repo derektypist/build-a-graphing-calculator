@@ -1,1 +1,3 @@
-# build-a-graphing-calculator
+# Build A Graphing Calculator
+
+FreeCodeCamp Project - College Algebra
